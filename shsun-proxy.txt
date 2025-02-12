@@ -1,0 +1,6 @@
+payload:
+  - 'mypikpak.com'
+  - 'mypikpak.net'
+  - 'metacubex.one'
+  - 'pikpak.net'
+  - 'pikpak.com'
