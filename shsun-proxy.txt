@@ -5,3 +5,4 @@ payload:
   - '+.pikpak.net'
   - '+.pikpak.com'
   - '+.onlyfans.com'
+  - '+.immortalwrt.org'
