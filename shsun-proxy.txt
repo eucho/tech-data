@@ -6,3 +6,5 @@ payload:
   - '+.pikpak.com'
   - '+.onlyfans.com'
   - '+.immortalwrt.org'
+  - ‘linux.do’
+  - ‘+.linux.do’
