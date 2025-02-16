@@ -8,3 +8,7 @@ payload:
   - '+.immortalwrt.org'
   - ‘linux.do’
   - ‘+.linux.do’
+  - 'btdig.com'
+  - '*.btdig.com'
+  - 'clmclm.com'
+  - '*.clmclm.com'
