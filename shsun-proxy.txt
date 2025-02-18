@@ -12,3 +12,5 @@ payload:
   - '*.btdig.com'
   - 'clmclm.com'
   - '*.clmclm.com'
+  - 'msn.com'
+  - '+.msn.com'
