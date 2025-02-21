@@ -14,3 +14,5 @@ payload:
   - '*.clmclm.com'
   - 'msn.com'
   - '+.msn.com'
+  - 'grok.com'
+  - '+.grok.com'
