@@ -1,6 +1,4 @@
 payload:
-  - '+.playstation.com'
-  - '+.playstation.net'
   - '+.zaobao.com'
   - '+.shsun-xinyue.ltd'
   - '+.pysoix.cn'
