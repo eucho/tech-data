@@ -6,3 +6,5 @@ payload:
   - 'pysoix.cn'
   - 'hf-mirror.com'
   - '+.hf-mirror.com'
+  - ‘lmstudio.ai’
+  - '+.lmstudio.ai'
