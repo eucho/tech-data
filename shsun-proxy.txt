@@ -16,3 +16,4 @@ payload:
   - '+.msn.com'
   - 'grok.com'
   - '+.grok.com'
+  - '+.googleadservices.com'
