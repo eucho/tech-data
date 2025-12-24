@@ -8,3 +8,5 @@ payload:
   - '+.hf-mirror.com'
   - ‘lmstudio.ai’
   - '+.lmstudio.ai'
+  - '+.minimax.com'
+  - '+.moonshot.cn'
