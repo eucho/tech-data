@@ -1,12 +1,13 @@
 payload:
   - '+.zaobao.com'
+  - '+.taobao.com'
   - '+.shsun-xinyue.ltd'
   - '+.pysoix.cn'
   - 'shsun-xinyue.ltd'
   - 'pysoix.cn'
   - 'hf-mirror.com'
   - '+.hf-mirror.com'
-  - ‘lmstudio.ai’
+  - 'lmstudio.ai'
   - '+.lmstudio.ai'
   - '+.minimax.com'
   - '+.moonshot.cn'
